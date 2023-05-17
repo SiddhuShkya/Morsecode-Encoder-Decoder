@@ -1,0 +1,1 @@
+Morse code is a method used in telecommunication to encode text characters
